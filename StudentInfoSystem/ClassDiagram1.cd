@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentInfoSystem.AddStudent">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAECEABACAAABAAAAiAAAACCAgowIggBAAAAQBAAAQ=</HashCode>
+      <FileName>AddStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.DataVisualize">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIACAACBAgBAAAkSAAAACAAgAQAAIgAAAAAAAAAA=</HashCode>
+      <FileName>DataVisualize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.ChartList">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataVisualize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.Form1">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AICAEAigACDCUBUSAADAACACICxgABoABCYYQRRDRgY=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.Student">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAACACAQAAQQAAQAQAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.WeeklyReport">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.Program">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.Properties.Resources">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAAAEAAAAAAAABEAAAAQgAAAAAAAAEAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentInfoSystem.Properties.Settings">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
